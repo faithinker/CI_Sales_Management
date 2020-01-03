@@ -15,7 +15,7 @@ PHP 판매관리 프로젝트
 <br><br>
 
 #### 실행화면
-<style>
+<style type="text/css">
   .myborder {
     border-style: solid;
     margin-bottom: 20px;
