@@ -22,8 +22,8 @@ PHP 판매관리 프로젝트
   }
 </style>  
 
-<div style="border-style: solid; margin-bottom: 20px;">
-  <img width="800" src="https://user-images.githubusercontent.com/39996770/71715444-b494c280-2e54-11ea-89ab-74e54d9d88ba.png">
-  <img width="1253" src="https://user-images.githubusercontent.com/39996770/71715481-db52f900-2e54-11ea-8d8b-1994ee95a4c8.png">
-  <img width="1253" src="https://user-images.githubusercontent.com/39996770/71715484-db52f900-2e54-11ea-9c66-9cfb21a216dd.png">
+<div>
+  <img width="800" src="https://user-images.githubusercontent.com/39996770/71715444-b494c280-2e54-11ea-89ab-74e54d9d88ba.png" style="border-style: solid; margin-bottom: 20px;">
+  <img width="1253" src="https://user-images.githubusercontent.com/39996770/71715481-db52f900-2e54-11ea-8d8b-1994ee95a4c8.png" style="border-style: solid; margin-bottom: 20px;">
+  <img width="1253" src="https://user-images.githubusercontent.com/39996770/71715484-db52f900-2e54-11ea-9c66-9cfb21a216dd.png" style="border-style: solid; margin-bottom: 20px;">
 </div>
