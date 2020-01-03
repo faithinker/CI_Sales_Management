@@ -15,12 +15,6 @@ PHP 판매관리 프로젝트
 <br><br>
 
 #### 실행화면
-<style type="text/css">
-  .myborder {
-    border-style: solid;
-    margin-bottom: 20px;
-  }
-</style>  
 
 <div>
   <img width="800" src="https://user-images.githubusercontent.com/39996770/71715444-b494c280-2e54-11ea-89ab-74e54d9d88ba.png" style="border-style: solid; margin-bottom: 20px;">
